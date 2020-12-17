@@ -8,14 +8,14 @@ from brownie.project.main import get_loaded_projects
 from brownie import LiquidityGauge as LiquidityGauge
 
 # set a throwaway admin account here
-DEPLOYER = accounts.add()
+DEPLOYER = accounts.add('52aa4ed7d96818b652e6b2d677379f3b9b7cd182567622dafb2226e17c8ccdca')
 REQUIRED_CONFIRMATIONS = 1
 
 # deployment settings
 # most settings are taken from `contracts/pools/{POOL_NAME}/pooldata.json`
 POOL_NAME = ""
-POOL_OWNER = "0x6e8f6D1DA6232d5E40b0B8758A0145D6C5123eB7"  # PoolProxy
-MINTER = "0xd061D61a4d941c39E5453435B6345Dc261C2fcE0"
+POOL_OWNER = "0xa1715792fE0C2F542BB78922878F956bB6E7d0d8"  # PoolProxy
+MINTER = "0x0b6845BC97B28Bdf1E9Cec448DC5A0A075120697"
 
 
 def _gas_price():

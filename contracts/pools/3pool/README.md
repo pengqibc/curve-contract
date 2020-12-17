@@ -8,14 +8,16 @@
 
 ## Deployments
 
-* [`CurveContractV2`](../../tokens/CurveTokenV2.vy): [0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490](https://etherscan.io/address/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490)
-* [`LiquidityGauge`](../../gauges/LiquidityGauge.vy): [0xbFcF63294aD7105dEa65aA58F8AE5BE2D9d0952A](https://etherscan.io/address/0xbfcf63294ad7105dea65aa58f8ae5be2d9d0952a)
-* [`StableSwap3Pool`](StableSwap3Pool.vy): [0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7](https://etherscan.io/address/0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7)
+* [`CurveContractV2`](../../tokens/CurveTokenV2.vy): [0x905406aA329695b4De2d68d59E36b1Ba4Ca523FB](https://testnet.bscscan.com/address/0x905406aA329695b4De2d68d59E36b1Ba4Ca523FB)
+* [`LiquidityGauge`](../../gauges/LiquidityGauge.vy): [0x6449aFa39da74AC3F7034314865d0133d6Def40f](https://testnet.bscscan.com/address/0x6449aFa39da74AC3F7034314865d0133d6Def40f)
+* [`StableSwap3Pool`](StableSwap3Pool.vy): [0x69095A758cFd87B10E0C7d2FDFA6fc250AA20420](https://testnet.bscscan.com/address/0x69095A758cFd87B10E0C7d2FDFA6fc250AA20420)
 
 ## Stablecoins
 
 Curve tri-pool supports swaps between the following stablecoins:
 
-* `DAI`: [0x6b175474e89094c44da98b954eedeac495271d0f](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f)
-* `USDC`: [0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48)
-* `USDT`: [0xdac17f958d2ee523a2206206994597c13d831ec7](https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7)
+* `DAI`: [0x40DbaBD279477cf338E6E3f242Fca43b73b7A3f9](https://testnet.bscscan.com/token/0x40DbaBD279477cf338E6E3f242Fca43b73b7A3f9)
+* `USDC`: [0xB6910ef5C9035E9E920b6958c9791895b4D2eA6f](https://testnet.bscscan.com/token/0xB6910ef5C9035E9E920b6958c9791895b4D2eA6f)
+* `USDT`: [0xdC1DAcf31071fc6a812d885d52EBE3529a46b9cc](https://testnet.bscscan.com/address/0xdC1DAcf31071fc6a812d885d52EBE3529a46b9cc)
+
+["0x40DbaBD279477cf338E6E3f242Fca43b73b7A3f9","0xB6910ef5C9035E9E920b6958c9791895b4D2eA6f","0xdC1DAcf31071fc6a812d885d52EBE3529a46b9cc"]

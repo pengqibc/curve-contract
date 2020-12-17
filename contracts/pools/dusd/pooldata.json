@@ -1,9 +1,10 @@
 {
     "base_pool": "3pool",
-    "swap_address": "0x8038C01A0390a8c547446a0b2c18fc9aEFEcc10c",
-    "lp_token_address": "0x3a664Ab939FD8482048609f652f9a0B0677337B9",
-    "zap_address": "0x61E10659fe3aa93d036d099405224E4Ac24996d0",
-    "gauge_addresses": ["0xAEA6c312f4b3E04D752946d329693F7293bC2e6D"],
+    "deposit_address": "0x0eA60062dbEd42604757b687653D1020D526BB51",
+    "swap_address": "0x4a63Cb9fCE16F717615017E23C5D2ADdF2b404f5",
+    "lp_token_address": "0x78A58D210Cd010f35C5894Bef65d3F2dfB666eC4",
+    "zap_address": "0x37C37e800a4762304Eb1A4960F29cdBe901B20ae",
+    "gauge_addresses": ["0xA9aACe9b4F0A9cB8551d0c8a0447cf825493Bb3f"],
     "lp_contract": "CurveTokenV2",
     "lp_constructor": {
         "symbol": "dusd3CRV",
@@ -19,13 +20,13 @@
             "name": "DUSD",
             "decimals": 18,
             "tethered": false,
-            "underlying_address": "0x5bc25f649fc4e26069ddf4cf4010f9f706c23831"
+            "underlying_address": "0x33573dC71518f263F9F8b8DD9eEAbA26cF5cdaB1"
         },
         {
             "name": "3CRV",
             "decimals": 18,
             "base_pool_token": true,
-            "underlying_address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"
+            "underlying_address": "0x905406aA329695b4De2d68d59E36b1Ba4Ca523FB"
         }
     ]
 }
